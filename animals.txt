@@ -1,4 +1,6 @@
 ant
 bat
 cat
+<<<<<<< HEAD
 dog
+duck
