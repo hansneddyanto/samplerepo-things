@@ -1,3 +1,4 @@
 bedroom
 bathroom
 living room
+classroom
